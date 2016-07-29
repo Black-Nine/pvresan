@@ -1,6 +1,6 @@
 <?php
-define('BOT_TOKEN', '216402021:AAFTvoe9-ptN3pkfAJZJ6h8BNpwJNtakL4Q');
-define('API_URL', 'https://api.telegram.org/bot'.216402021:AAFTvoe9-ptN3pkfAJZJ6h8BNpwJNtakL4Q.'/');
+define('BOT_TOKEN', '255331943:AAEanYfHi62DOZRy9YlI5CVuySmnVTaEvHs');
+define('API_URL', 'https://api.telegram.org/bot'.255331943:AAEanYfHi62DOZRy9YlI5CVuySmnVTaEvHs.'/');
 
 function apiRequestWebhook($method, $parameters) {
   if (!is_string($method)) {
